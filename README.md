@@ -2,7 +2,7 @@
 
 This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Firebase Functions Hello World](https://youtu.be/P_QbfVpcF9Q).
 
-[![Firebase Functions Hello World](https://img.youtube.com/vi/P_QbfVpcF9Q/0.jpg)](https://youtu.be/P_QbfVpcF9Q)
+[![Firebase Functions Hello World](https://img.youtube.com/vi/P_QbfVpcF9Q/mqdefault.jpg)](https://youtu.be/P_QbfVpcF9Q)
 
 The most simple version of firebase cloud functions: hello world.
 
