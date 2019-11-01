@@ -1,12 +1,12 @@
 # Firebase Functions Hello World
 
-This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Firebase Functions Hello World](https://youtu.be/P_QbfVpcF9Q); as well as my blog article [Firebase Functions Hello World](https://blog.jamibot.com/firebase-functions-hello-world).
+This project accompanies the [Jameson Saunders](https://jamesonsaunders.com) YouTube video [Firebase Functions Hello World](https://youtu.be/P_QbfVpcF9Q); as well as my blog article [Firebase Functions Hello World](https://blog.jamibot.com/firebase-functions-hello-world).
 
 [![Firebase Functions Hello World](https://img.youtube.com/vi/P_QbfVpcF9Q/maxresdefault.jpg)](https://youtu.be/P_QbfVpcF9Q)
 
 The most simple version of firebase cloud functions: hello world.
 
-If you haven't already, check out the [Jami Bot YouTube Channel](https://youtube.com/c/JamiBot) for web development videos.
+If you haven't already, check out the [Jameson Saunders YouTube Channel](https://youtube.com/c/JamesonSaunders) for web & mobile development videos.
 
 ## Installation
 
